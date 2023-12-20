@@ -1,0 +1,16 @@
+# ninja log v5
+4	151	1688659080950601294	CMakeFiles/ini_c.dir/linked_list.c.o	3c00cd2a55358dd6
+3	159	1688659080957789635	CMakeFiles/ini_c.dir/ini_utils.c.o	6a844ed3dc5af38e
+3	62	1688351464862888520	CMakeFiles/ini_c.dir/array_list.c.o	d2a9dc101917eaaa
+1	88	1689164419303608763	CMakeFiles/ini_c.dir/main.c.o	5f0cc085f8dcc6f3
+5	162	1688659080963301386	CMakeFiles/ini_c.dir/ini_file_parser.c.o	20b9f54451622f80
+88	174	1689164419389667088	ini_c	d3c3f250c9a66094
+3	282	1689164408106424591	CMakeFiles/ini_c.dir/ini/ini_utils.c.o	9aba76681a77dc45
+2	57	1688375449941062059	CMakeFiles/ini_c.dir/smart_pointer.c.o	9b02559f0a6ac5ff
+2	102	1688658517621079881	CMakeFiles/ini_c.dir/ini_info.c.o	227cd77db3b72d2a
+0	113	1689569096477587284	build.ninja	a06ee42a0a49644
+4	275	1689164408100839241	CMakeFiles/ini_c.dir/ini/ini_file_generator.c.o	29f4c3e08107886c
+7	131	1688659080928491716	CMakeFiles/ini_c.dir/ini_file_generator.c.o	f21718a28534ec46
+2	302	1689164408129761880	CMakeFiles/ini_c.dir/ini/ini_info.c.o	c7a766a0a0e9ca05
+4	286	1689164408112393869	CMakeFiles/ini_c.dir/ini/ini_file_parser.c.o	e5bb2865428725c4
+3	281	1689164408106260199	CMakeFiles/ini_c.dir/linked_list/linked_list.c.o	8685201de40c15ed
